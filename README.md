@@ -1,6 +1,6 @@
 # ERC20TokenPool
 
-ERC20TokenPool evenly distributes tokens among shares. The token must implement _at minimum_ `blanceOf` and `transfer` from ERC20 to work with the ERC20TokenPool.
+ERC20TokenPool evenly distributes tokens among shares. The token must implement `balanceOf` and `transfer` from ERC20 to work with the ERC20TokenPool.
 
 On creation the ERC20TokenPool is given:
 
